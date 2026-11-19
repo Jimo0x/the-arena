@@ -1,0 +1,9 @@
+{
+  "name": "the-arena",
+  "version": "1.0.0",
+  "description": "Débats anonymes en temps réel avec arbitrage par IA",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node --test test/*.test.js" },
+  "engines": { "node": ">=22" },
+  "license": "MIT"
+}
